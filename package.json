@@ -1,0 +1,23 @@
+{
+  "name": "curso_git_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoracioGutierrez/curso_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoracioGutierrez/curso_git/issues"
+  },
+  "homepage": "https://github.com/HoracioGutierrez/curso_git#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
